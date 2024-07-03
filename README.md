@@ -8,7 +8,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm an aspiring software developer currently working towards a Bachelor's of Science degree in Computer Science from the University of Otago in New Zealand. I'm from India and Indonesia. I am passionate about artificial intelligence and its impact on society, and I regularly read articles on substack and LinkedIn by contributors who provide insights about this.  .</p>
+    <p>I'm an aspiring software developer currently working towards a Bachelor's of Science degree in Computer Science from the University of Otago in New Zealand. I'm from India and Indonesia. I am passionate about artificial intelligence and its impact on society, and I regularly read articles on substack and LinkedIn by authors who provide insights about this leap in technology. </p>
 </div>
 
 <div align="center">
