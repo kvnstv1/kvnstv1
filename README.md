@@ -11,6 +11,13 @@
     <p>I'm an aspiring software developer currently working towards a Bachelor's of Science degree in Computer Science from the University of Otago in New Zealand. I'm from India and Indonesia. I am passionate about artificial intelligence and its impact on society, and I regularly read articles on substack and LinkedIn by contributors who provide insights about this.  .</p>
 </div>
 
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/kvnstv1/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+
 
 
 <!--
