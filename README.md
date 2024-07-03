@@ -12,11 +12,19 @@
 </div>
 
 <div align="center">
+    <h2> Connect with me </h2>
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/kvnstv1/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+
+<div align="center">
+    <h2> Programming Languages </h2>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
+
 
 
 
