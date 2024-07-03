@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <h2> Connect with me </h2>
+    <h2> 🌐 Connect with me </h2>
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/satke569/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-    <h2> Programming Languages </h2>
+    <h2> :accessibility: Programming Languages </h2>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-    <h2> Networking </h2>
+    <h2> ☁️ Networking </h2>
     <!-- Replace with your cloud tech skills -->
     <p>I'm working on projects on the Nextwork community. So far I have experience with S3, EC2, QuickSight and IAM.I am studying for the Cloud Practitioner Certification. I also got some experience with Azure while doing the Microsoft Student Accelerator Program.</p>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS" />
@@ -45,6 +45,7 @@
 </div>
 
 <div align="center">
+    <h2> 🧮 Stats </h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvnstv1&theme=github_dark" alt="Kevin's GitHub Stats"/>
 </div>
 
