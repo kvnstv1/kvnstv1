@@ -35,8 +35,7 @@
 <div align="center">
     <h2> Networking </h2>
     <!-- Replace with your cloud tech skills -->
-    I'm working on projects on the Nextwork community. So far I have experience with S3, EC2, QuickSight and IAM.I am studying for the Cloud Practitioner Certification. I also got some experience with Azure while doing the Microsoft Student Accelerator Program.
-
+    <p>I'm working on projects on the Nextwork community. So far I have experience with S3, EC2, QuickSight and IAM.I am studying for the Cloud Practitioner Certification. I also got some experience with Azure while doing the Microsoft Student Accelerator Program.</p>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/AZURE-FF9900?style=for-the-badge&logo=azure&logoColor=white" alt="Azure" />
 </div>
