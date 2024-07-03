@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 <div align="center">
     <h1>
@@ -32,6 +32,8 @@
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+    
 </div>
 
 <div align="center">
@@ -45,6 +47,8 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvnstv1&theme=github_dark" alt="Kevin's GitHub Stats"/>
 </div>
+
+
 
 
 
