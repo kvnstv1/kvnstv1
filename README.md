@@ -14,16 +14,19 @@
 <div align="center">
     <h2> Connect with me </h2>
     <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/kvnstv1/">
+    <a href="https://www.linkedin.com/in/satke569/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://kvnstv1.github.io/">
+        <img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=website&logoColor=yellow" alt="Personal Website"/>
     </a>
 </div>
 
 <div align="center">
     <h2> Programming Languages </h2>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-Intermediate-green" alt="Java" />
     <img src="https://img.shields.io/badge/Python-Beginner-blue" alt="Python" />
-    <!-- Add more badges similarly -->
+    <img src="https://img.shields.io/badge/C-Beginner-purple" alt="C" />
 </div>
 
 
