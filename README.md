@@ -42,6 +42,10 @@
     <img src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white" alt="Azure" />
 </div>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
+
 
 
 
