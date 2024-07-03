@@ -67,4 +67,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Resources used:
+
+https://dev.to/github/10-standout-github-profile-readmes-h2o
+https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
+https://github.com/ashleymavericks/ashleymavericks
+https://shields.io/badges
+https://github.com/inttter/md-badges?tab=readme-ov-file
+https://github.com/markdown-templates/markdown-emojis
+
 -->
