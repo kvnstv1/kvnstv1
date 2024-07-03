@@ -30,14 +30,15 @@
     <img src="https://img.shields.io/badge/Java-Intermediate-green" alt="Java" />
     <img src="https://img.shields.io/badge/Python-Beginner-blue" alt="Python" />
     <img src="https://img.shields.io/badge/C-Beginner-purple" alt="C" />
+    <img src="https://img.shields.io/badge/Postgres-Intermediate-red" alt="PostgreSQL" />
 </div>
 
 <div align="center">
     <h2> Networking </h2>
     <!-- Replace with your cloud tech skills -->
     <p>I'm working on projects on the Nextwork community. So far I have experience with S3, EC2, QuickSight and IAM.I am studying for the Cloud Practitioner Certification. I also got some experience with Azure while doing the Microsoft Student Accelerator Program.</p>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/AZURE-FF9900?style=for-the-badge&logo=azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white" alt="Azure" />
 </div>
 
 
