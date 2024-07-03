@@ -29,7 +29,7 @@
     <h2> Programming Languages </h2>
     <img src="https://img.shields.io/badge/Java-Intermediate-green" alt="Java" />
     <img src="https://img.shields.io/badge/Python-Beginner-blue" alt="Python" />
-    <img src="https://img.shields.io/badge/C-Beginner-purple" alt="C" />
+    <img src="[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)" />
     <img src="https://img.shields.io/badge/Postgres-Intermediate-red" alt="PostgreSQL" />
 </div>
 
