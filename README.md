@@ -27,10 +27,11 @@
 
 <div align="center">
     <h2> Programming Languages </h2>
-    <img src="https://img.shields.io/badge/Java-Intermediate-green" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-Beginner-blue" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postgres-Intermediate-red" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 <div align="center">
