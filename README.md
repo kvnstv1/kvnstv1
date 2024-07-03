@@ -20,6 +20,9 @@
     <a href="https://kvnstv1.github.io/">
         <img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=website&logoColor=yellow" alt="Personal Website"/>
     </a>
+    <a href="https://leetcode.com/u/satke569/">
+        <img src="https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=Leetcode&logoColor=red" alt="Leetcode"/>
+    </a>
 </div>
 
 <div align="center">
